@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gentle Observer</string>
+    
+    <!-- Navigation -->
+    <string name="check_in">Чек-ин</string>
+    <string name="evening_check_in">Вечерний чек-ин</string>
+    <string name="history">История</string>
+    <string name="analytics">Аналитика</string>
+    <string name="settings">Настройки</string>
+    <string name="disclaimer">Предупреждение</string>
+    <string name="onboarding">О приложении</string>
+    
+    <!-- Home Screen -->
+    <string name="home_greeting">Сегодня спокойный день</string>
+    <string name="next_check_in">Следующий чек-ин в %1$s</string>
+    <string name="start_check_in">Начать чек-ин сейчас</string>
+    <string name="check_in_time">Время чек-ина</string>
+    <string name="check_in_duration">Займёт около минуты</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Это приложение — ваш спутник</string>
+    <string name="onboarding_text_1">Оно не оценивает и не советует. Просто мягко помогает замечать, что происходит с телом и настроением.</string>
+    <string name="onboarding_next">Понятно, дальше</string>
+    <string name="onboarding_title_2">Короткие чек-ины</string>
+    <string name="onboarding_text_2">Раз в несколько часов мы будем задавать 4-5 простых вопросов. На ответ — 30 секунд. Можно пропустить любой вопрос или весь чек-ин.</string>
+    <string name="onboarding_continue">Дальше</string>
+    <string name="onboarding_title_3">Уведомления</string>
+    <string name="onboarding_text_3">Приложение будет присылать короткие напоминания о чек-инах. Можно настроить время или отключить.</string>
+    <string name="onboarding_allow_notifications">Разрешить уведомления</string>
+    <string name="onboarding_later">Настроить позже</string>
+    <string name="onboarding_title_4">Готово</string>
+    <string name="onboarding_text_4">Первый чек-ин появится сегодня. Нажмите, когда получите уведомление.</string>
+    <string name="onboarding_to_main">На главный экран</string>
+    
+    <!-- Body Block -->
+    <string name="body_title">Как себя чувствует тело</string>
+    <string name="body_hunger">Сейчас чувствуете голод?</string>
+    <string name="body_fatigue">Чувствуете усталость?</string>
+    <string name="body_tension">Есть напряжение в теле?</string>
+    <string name="answer_yes">Да</string>
+    <string name="answer_somewhat">Немного</string>
+    <string name="answer_no">Нет</string>
+    <string name="skip">Пропустить</string>
+    
+    <!-- Food Block -->
+    <string name="food_title">О еде</string>
+    <string name="food_hours_since_meal">Прошло больше 4 часов с последнего приёма пищи?</string>
+    <string name="food_ate_since_last">Ели что-то с прошлого чек-ина?</string>
+    <string name="food_enjoyment">Еда была приятной?</string>
+    <string name="answer_okay">Нормально</string>
+    <string name="answer_not_really">Не очень</string>
+    <string name="answer_unsure">Не уверена</string>
+    <string name="answer_dont_remember">Не помню</string>
+    
+    <!-- Mindfulness Block -->
+    <string name="mindfulness_title">О том, как ели</string>
+    <string name="mindfulness_ate_mindfully">Ели сидя и никуда не спеша?</string>
+    <string name="mindfulness_tasted_food">Чувствовали вкус еды?</string>
+    <string name="answer_partially">Частично</string>
+    
+    <!-- Emotions Block -->
+    <string name="emotions_title">Настроение</string>
+    <string name="emotions_mood">Сейчас вы чувствуете себя…</string>
+    <string name="mood_calm">Спокойно</string>
+    <string name="mood_tired">Уставшей</string>
+    <string name="mood_irritated">Раздражённой</string>
+    <string name="mood_sad">Грустно</string>
+    <string name="emotions_urge_to_eat">Есть желание что-то заесть?</string>
+    
+    <!-- Evening Check-In -->
+    <string name="evening_overeating">Сегодня были эпизоды, когда ели больше, чем хотели?</string>
+    <string name="evening_long_gaps">Были сегодня перерывы между едой больше 5-6 часов?</string>
+    <string name="evening_day_overall">Сегодняшний день был…</string>
+    <string name="day_calm">Спокойным</string>
+    <string name="day_hard">Тяжёлым</string>
+    <string name="day_exhausting">Очень уставшим</string>
+    <string name="evening_current_hunger">Сейчас хочется есть?</string>
+    
+    <!-- Expressive Window -->
+    <string name="expressive_permission">Есть ли сейчас что-то, чем вы готовы коротко поделиться?</string>
+    <string name="expressive_optional">Полностью по желанию</string>
+    <string name="expressive_write">Да, написать</string>
+    <string name="expressive_voice">Записать голосом</string>
+    <string name="expressive_skip">Нет, пропустить</string>
+    <string name="expressive_hint_body">Можете описать ощущения, усталость или дискомфорт…</string>
+    <string name="expressive_hint_food">Можете рассказать о сомнениях, трудностях или приятных моментах…</string>
+    <string name="expressive_hint_mindfulness">Можете написать, что помогло или мешало…</string>
+    <string name="expressive_hint_emotions">Можете описать переживания или напряжение…</string>
+    <string name="expressive_hint_evening">Что-то о сегодняшнем дне…</string>
+    <string name="expressive_save">Сохранить</string>
+    <string name="expressive_record_hint">Нажмите и удерживайте для записи</string>
+    <string name="expressive_max_length">Максимум 60 секунд</string>
+    
+    <!-- Check-In Complete -->
+    <string name="check_in_complete">Записано</string>
+    <string name="check_in_thanks">Спасибо. Следующий чек-ин в %1$s.</string>
+    <string name="check_in_partial">Спасибо. Можно ответить на больше вопросов в следующий раз — или совсем не отвечать. Как будет комфортно.</string>
+    <string name="back_to_home">На главный экран</string>
+    
+    <!-- Analytics -->
+    <string name="analytics_your_data">Ваши данные</string>
+    <string name="analytics_meal_intervals">Часы между едой</string>
+    <string name="analytics_states">Голод и усталость</string>
+    <string name="analytics_mood">Настроение и желание заесть</string>
+    <string name="analytics_note">Эти данные — только для вас. Их видите вы и тот, кому вы решите показать.</string>
+    <string name="export_for_doctor">Выгрузить для врача</string>
+    <string name="export_csv">Таблица (CSV)</string>
+    <string name="export_pdf">PDF с графиками</string>
+    <string name="export_last_7">Последние 7 дней</string>
+    <string name="export_last_30">Последние 30 дней</string>
+    <string name="export_all">Всё время</string>
+    <string name="export_share">Поделиться</string>
+    
+    <!-- Settings -->
+    <string name="settings_notifications">Напоминания о чек-инах</string>
+    <string name="settings_enable_notifications">Включить уведомления</string>
+    <string name="settings_evening_time">Время вечернего чек-ина</string>
+    <string name="settings_data">Данные</string>
+    <string name="settings_export_all">Экспорт всех данных</string>
+    <string name="settings_delete_all">Удалить все данные</string>
+    <string name="settings_info">Информация</string>
+    <string name="settings_about">О приложении</string>
+    <string name="settings_disclaimer">Предупреждение</string>
+    <string name="delete_confirm">Удалить все данные? Это действие нельзя отменить.</string>
+    <string name="delete_yes">Удалить</string>
+    <string name="delete_no">Отмена</string>
+    
+    <!-- Notifications -->
+    <string name="notification_check_in_title">Время чек-ина</string>
+    <string name="notification_check_in_text">Нажмите, чтобы ответить на вопросы</string>
+    <string name="notification_evening_title">Вечерний чек-ин</string>
+    <string name="notification_evening_text">Подведём итоги дня</string>
+    
+    <!-- Notification Channels -->
+    <string name="channel_checkins_name">Напоминания о чек-инах</string>
+    <string name="channel_checkins_description">Уведомления о дневных чек-инах</string>
+    <string name="channel_evening_name">Вечерний чек-ин</string>
+    <string name="channel_evening_description">Уведомления о вечернем подведении итогов</string>
+
+    <!-- Export -->
+    <string name="export_title">Поделиться данными</string>
+    <string name="export_subject">Данные Gentle Observer</string>
+    <string name="export_body">Во вложении экспорт данных из приложения Gentle Observer</string>
+    <string name="export_no_data">Нет данных для экспорта</string>
+    <string name="export_error">Ошибка при экспорте данных</string>
+
+    <!-- Permissions -->
+    <string name="permission_notifications_denied">Без разрешения на уведомления напоминания работать не будут</string>
+    <string name="permission_storage_denied">Без разрешения на хранилище невозможно сохранить файл</string>
+    
+    <!-- Disclaimer -->
+    <string name="disclaimer_title">ПРЕДУПРЕЖДЕНИЕ</string>
+    <string name="disclaimer_text">Приложение Gentle Observer не является медицинским продуктом и не предназначено для диагностики, лечения или профилактики заболеваний.\n\nПриложение не даёт:\n• Медицинских рекомендаций\n• Советов по питанию\n• Рекомендаций по лечению диабета\n• Интерпретации ваших данных\n\nВсе данные, собираемые приложением, предназначены только для вашего личного использования и для предоставления вашему лечащему врачу по вашему решению.\n\nПриложение не заменяет консультацию с врачом. Все вопросы, касающиеся вашего здоровья, питания и лечения, необходимо обсуждать с квалифицированным специалистом.\n\nЕсли у вас есть сомнения по поводу состояния здоровья или вы испытываете недомогание, обратитесь к врачу.</string>
+    <string name="disclaimer_accept">Понятно</string>
+    
+    <!-- Common -->
+    <string name="next">Дальше</string>
+    <string name="back">Назад</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="close">Закрыть</string>
+    
+</resources>

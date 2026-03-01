@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Smaller dimensions for small screens (3.5-4.0", 320dp) -->
+    
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+    <dimen name="button_padding_vertical">8dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    
+    <dimen name="text_header">22sp</dimen>
+    <dimen name="text_question">18sp</dimen>
+    <dimen name="text_button">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    
+    <dimen name="screen_margin_horizontal">12dp</dimen>
+    <dimen name="screen_margin_vertical">12dp</dimen>
+    <dimen name="content_margin_top">16dp</dimen>
+    <dimen name="element_margin">12dp</dimen>
+    <dimen name="small_margin">6dp</dimen>
+    
+    <dimen name="card_padding">12dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    
+</resources>

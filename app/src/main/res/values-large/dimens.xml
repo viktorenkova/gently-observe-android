@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Larger dimensions for large screens (5.5-7", 480dp) and tablets -->
+    
+    <dimen name="button_height">64dp</dimen>
+    <dimen name="button_padding_horizontal">32dp</dimen>
+    <dimen name="button_padding_vertical">16dp</dimen>
+    <dimen name="button_margin">16dp</dimen>
+    
+    <dimen name="text_header">28sp</dimen>
+    <dimen name="text_question">24sp</dimen>
+    <dimen name="text_button">20sp</dimen>
+    <dimen name="text_body">18sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    
+    <dimen name="screen_margin_horizontal">24dp</dimen>
+    <dimen name="screen_margin_vertical">24dp</dimen>
+    <dimen name="content_margin_top">32dp</dimen>
+    <dimen name="element_margin">24dp</dimen>
+    <dimen name="small_margin">12dp</dimen>
+    
+    <dimen name="card_padding">24dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    
+    <!-- Maximum width for tablet content to not stretch too wide -->
+    <dimen name="max_content_width">600dp</dimen>
+    
+</resources>
